@@ -1,4 +1,5 @@
-# Security Tools Knowledge Repository (STICKER)
+# 
+
 
 ## Introduction
 
@@ -40,6 +41,7 @@ Remember, security is an ongoing process, not a one-time setup. Regularly update
 
 This repository contains information about various open-source and Unix out-of-the-box security tools, including some Mac-specific tools. Each tool has its own dedicated page with detailed information.
 
+
 ### Open Source Tools
 
 - [Nessus (OpenVAS)](nessus.md)
@@ -66,6 +68,12 @@ Each tool's page contains the following information:
 - How it's used in security matters
 - Command syntax
 - Usage example
+
+## Mac-Based CLI Tools
+
+Refer to this index:
+
+[Mac Tools Index](mac-security-tools-index.md)
 
 We encourage you to explore each tool's page to gain a basic understanding of its functionality and how it can contribute to your overall security strategy.
 
