@@ -1,9 +1,10 @@
-# 
+
+![Security Tools Knowledge Repo (STiKR)](img/banner.png)
 
 
 ## Introduction
 
-Welcome to the Security Tools Knowledge Repository! This collection serves as a quick reference guide for non-security users who want to understand and utilize various security tools available on Unix-based systems, including macOS.
+Welcome to the Security Tools Knowledge Repository (STiKR)! This collection serves as a quick reference guide for non-security users who want to understand and utilize various security tools available on Unix-based systems, including macOS.
 
 ### Purpose
 
